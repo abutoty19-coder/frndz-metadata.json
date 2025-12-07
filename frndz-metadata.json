@@ -1,0 +1,18 @@
+{
+  "name": "FRNDZ Protocol",
+  "symbol": "FRNDZ",
+  "description": "FRNDZ Protocol is an intent-based, zero-PII Web3 advertising layer that rewards real users on-chain for meaningful attention.",
+  "image": "https://frndz-protocol.pro/logo.png",
+  "external_url": "https://frndz-protocol.pro",
+  "attributes": [
+    { "trait_type": "Category", "value": "Advertising" },
+    { "trait_type": "Model", "value": "Intent-based" },
+    { "trait_type": "Privacy", "value": "Zero-PII" },
+    { "trait_type": "Rewards", "value": "On-chain" },
+    { "trait_type": "Chain", "value": "Solana Testnet" }
+  ],
+  "extensions": {
+    "twitter": "https://x.com/FrndzProtocol",
+    "telegram": "https://t.me/FrndzProtocol"
+  }
+}
